@@ -1,0 +1,4 @@
+node_modules/
+backend/.env
+*.zip
+.DS_Store
